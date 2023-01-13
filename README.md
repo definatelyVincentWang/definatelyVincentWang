@@ -6,6 +6,6 @@
 * Favorite Music: Dubstep/Electro House
 * My Discord: Add me on discord with: vincentw#8239
 
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentw921&show_icons=true&theme=dark)](https://github.com/definatelyVincentWang/github-readme-stats)
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentw921&show_icons=true&theme=dark)](https://github.com/vincentw921/github-readme-stats)
 
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentw921&layout=compact&theme=dark&count_private=true&langs_count=10)
